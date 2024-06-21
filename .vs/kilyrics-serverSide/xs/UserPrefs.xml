@@ -1,0 +1,38 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{3BFFB694-0F28-4811-8756-D2D701510BB2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.kilyrics-serverSide PreferredExecutionTarget="/Users/kerenelbaz/Desktop/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="kilyrics-serverSide/Models/DAL/DBservices.cs">
+    <Files>
+      <File FileName="kilyrics-serverSide/Models/DAL/DBservices.cs" Line="8" Column="3" />
+      <File FileName="kilyrics-serverSide/Models/User.cs" Line="68" Column="1" />
+      <File FileName="kilyrics-serverSide/Properties/launchSettings.json" Line="16" Column="22" />
+      <File FileName="../../../../../usr/local/share/dotnet/sdk/7.0.203/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="266" Column="5" />
+      <File FileName="kilyrics-serverSide/appsettings.Development.json" Line="9" Column="1" />
+      <File FileName="kilyrics-serverSide/appsettings.json" Line="12" Column="2" />
+      <File FileName="kilyrics-serverSide/Program.cs" Line="1" Column="1" />
+      <File FileName="kilyrics-serverSide/Controllers/UsersController.cs" Line="59" Column="68" />
+      <File FileName="kilyrics-serverSide/Models/Song.cs" Line="1" Column="1" />
+      <File FileName="kilyrics-serverSide/Models/Artist.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="kilyrics-serverSide">
+            <Node name="kilyrics-serverSide">
+              <Node name="Models">
+                <Node name="DAL">
+                  <Node name="DBservices.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

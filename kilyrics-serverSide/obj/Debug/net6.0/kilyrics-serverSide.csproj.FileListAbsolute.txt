@@ -1,0 +1,150 @@
+<<<<<<< HEAD
+=======
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.csproj.AssemblyReference.cache
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.AssemblyInfoInputs.cache
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.AssemblyInfo.cs
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.csproj.CoreCompileInputs.cache
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/appsettings.json
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.exe
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.deps.json
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.runtimeconfig.json
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.pdb
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/scopedcss/bundle/kilyrics-serverSide.styles.css
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.csproj.CopyComplete
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/refint/kilyrics-serverSide.dll
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.pdb
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.genruntimeconfig.cache
+C:/Users/60021/OneDrive/Desktop/לימודים/שנה ב/צד שרת/kilyrics-musicProject-serverSide/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/ref/kilyrics-serverSide.dll
+>>>>>>> 9190634f208d779edf7180a74373f7f1ea9c5bb9
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/appsettings.json
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.exe
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.deps.json
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.runtimeconfig.json
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.pdb
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.csproj.AssemblyReference.cache
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.AssemblyInfoInputs.cache
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.AssemblyInfo.cs
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.csproj.CoreCompileInputs.cache
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets/msbuild.kilyrics-serverSide.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets/msbuild.build.kilyrics-serverSide.props
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.kilyrics-serverSide.props
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.kilyrics-serverSide.props
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/scopedcss/bundle/kilyrics-serverSide.styles.css
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.csproj.CopyComplete
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/refint/kilyrics-serverSide.dll
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.pdb
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.genruntimeconfig.cache
+C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/ref/kilyrics-serverSide.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/refint/kilyrics-serverSide.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.pdb
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/appsettings.Development.json
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/appsettings.json
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.deps.json
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.runtimeconfig.json
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.pdb
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.csproj.AssemblyReference.cache
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.AssemblyInfoInputs.cache
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.AssemblyInfo.cs
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.csproj.CoreCompileInputs.cache
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.MvcApplicationPartsAssemblyInfo.cs
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.MvcApplicationPartsAssemblyInfo.cache
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets/msbuild.kilyrics-serverSide.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets/msbuild.build.kilyrics-serverSide.props
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.kilyrics-serverSide.props
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.kilyrics-serverSide.props
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets.build.json
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets.development.json
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/scopedcss/bundle/kilyrics-serverSide.styles.css
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.csproj.CopyComplete
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.genruntimeconfig.cache
+/Users/kerenelbaz/Documents/GitHub/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/ref/kilyrics-serverSide.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/appsettings.Development.json
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/appsettings.json
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.deps.json
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.runtimeconfig.json
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/kilyrics-serverSide.pdb
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/System.Data.SqlClient.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.csproj.AssemblyReference.cache
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.AssemblyInfoInputs.cache
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.AssemblyInfo.cs
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.csproj.CoreCompileInputs.cache
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.MvcApplicationPartsAssemblyInfo.cs
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.MvcApplicationPartsAssemblyInfo.cache
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets/msbuild.kilyrics-serverSide.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets/msbuild.build.kilyrics-serverSide.props
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.kilyrics-serverSide.props
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.kilyrics-serverSide.props
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets.build.json
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/staticwebassets.development.json
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/scopedcss/bundle/kilyrics-serverSide.styles.css
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.csproj.CopyComplete
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/refint/kilyrics-serverSide.dll
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.pdb
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.genruntimeconfig.cache
+/Users/kerenelbaz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/ref/kilyrics-serverSide.dll
