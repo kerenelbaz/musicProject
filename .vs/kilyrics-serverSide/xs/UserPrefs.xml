@@ -1,8 +1,7 @@
-﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{3BFFB694-0F28-4811-8756-D2D701510BB2}|Default">
+﻿<Properties StartupConfiguration="{3BFFB694-0F28-4811-8756-D2D701510BB2}|Default" GitUserInfo="UsingMD">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.kilyrics-serverSide PreferredExecutionTarget="/Users/kerenelbaz/Desktop/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="kilyrics-serverSide/Models/DAL/DBservices.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vercel.json">
     <Files>
       <File FileName="kilyrics-serverSide/Models/DAL/DBservices.cs" Line="8" Column="3" />
       <File FileName="kilyrics-serverSide/Models/User.cs" Line="68" Column="1" />
@@ -13,25 +12,20 @@
       <File FileName="kilyrics-serverSide/Program.cs" Line="1" Column="1" />
       <File FileName="kilyrics-serverSide/Controllers/UsersController.cs" Line="59" Column="68" />
       <File FileName="kilyrics-serverSide/Models/Song.cs" Line="1" Column="1" />
-      <File FileName="kilyrics-serverSide/Models/Artist.cs" Line="1" Column="1" />
+      <File FileName="vercel.json" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="kilyrics-serverSide">
-            <Node name="kilyrics-serverSide">
-              <Node name="Models">
-                <Node name="DAL">
-                  <Node name="DBservices.cs" selected="True" />
-                </Node>
-              </Node>
-            </Node>
+          <Node name="kilyrics-serverSide" expanded="True">
+            <Node name="kilyrics-serverSide" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

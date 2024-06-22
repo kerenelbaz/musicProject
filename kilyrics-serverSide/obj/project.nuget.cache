@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JPmzPfZ1wSynbf1kNQREsYMcWvDbOSBz6Hq6cdubjbX5jmBf0TPFBkyfcp60LJlolBOQd691P1bu3ZSnIEF/sA==",
+  "dgSpecHash": "PvqA3d4lChHyjgJbg9rH0UP+yotoPn6FjeQJSIADd9b3xhSRlF08gJqNhekA+OeMx1DKgHxghhAeVB9t7HS1cg==",
   "success": true,
-  "projectFilePath": "/Users/kerenelbaz/Downloads/kilyrics-serverSide-main/kilyrics-serverSide/kilyrics-serverSide.csproj",
+  "projectFilePath": "/Users/kerenelbaz/Projects/musicProjServerSide/musicProject/kilyrics-serverSide/kilyrics-serverSide.csproj",
   "expectedPackageFiles": [
     "/Users/kerenelbaz/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/kerenelbaz/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",

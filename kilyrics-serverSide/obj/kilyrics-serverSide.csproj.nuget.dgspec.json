@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kerenelbaz/Downloads/kilyrics-serverSide-main/kilyrics-serverSide/kilyrics-serverSide.csproj": {}
+    "/Users/kerenelbaz/Projects/musicProjServerSide/musicProject/kilyrics-serverSide/kilyrics-serverSide.csproj": {}
   },
   "projects": {
-    "/Users/kerenelbaz/Downloads/kilyrics-serverSide-main/kilyrics-serverSide/kilyrics-serverSide.csproj": {
+    "/Users/kerenelbaz/Projects/musicProjServerSide/musicProject/kilyrics-serverSide/kilyrics-serverSide.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kerenelbaz/Downloads/kilyrics-serverSide-main/kilyrics-serverSide/kilyrics-serverSide.csproj",
+        "projectUniqueName": "/Users/kerenelbaz/Projects/musicProjServerSide/musicProject/kilyrics-serverSide/kilyrics-serverSide.csproj",
         "projectName": "kilyrics-serverSide",
-        "projectPath": "/Users/kerenelbaz/Downloads/kilyrics-serverSide-main/kilyrics-serverSide/kilyrics-serverSide.csproj",
+        "projectPath": "/Users/kerenelbaz/Projects/musicProjServerSide/musicProject/kilyrics-serverSide/kilyrics-serverSide.csproj",
         "packagesPath": "/Users/kerenelbaz/.nuget/packages/",
-        "outputPath": "/Users/kerenelbaz/Downloads/kilyrics-serverSide-main/kilyrics-serverSide/obj/",
+        "outputPath": "/Users/kerenelbaz/Projects/musicProjServerSide/musicProject/kilyrics-serverSide/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kerenelbaz/.nuget/NuGet/NuGet.Config"
