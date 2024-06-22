@@ -1,1 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> <configuration> </configuration>
+﻿{
+  "version": 2,
+  "builds": [
+    {
+      "src": "kilyrics-serverSide/kilyrics-serverSide.csproj",
+      "use": "@vercel/dotnet"
+    }
+  ],
+  "routes": [{ "src": "/(.*)", "dest": "kilyrics-serverSide/$1" }]
+}
