@@ -186,3 +186,4 @@ C:/Users/Liraz/Desktop/kilyrics-serverSide/kilyrics-serverSide/obj/Debug/net6.0/
 /Users/kerenelbaz/Projects/musicProjServerSide/musicProject/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.pdb
 /Users/kerenelbaz/Projects/musicProjServerSide/musicProject/kilyrics-serverSide/obj/Debug/net6.0/kilyrics-serverSide.genruntimeconfig.cache
 /Users/kerenelbaz/Projects/musicProjServerSide/musicProject/kilyrics-serverSide/obj/Debug/net6.0/ref/kilyrics-serverSide.dll
+/Users/kerenelbaz/Projects/musicProjServerSide/musicProject/kilyrics-serverSide/bin/Debug/net6.0/vercel.json

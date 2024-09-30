@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{3BFFB694-0F28-4811-8756-D2D701510BB2}|Default" GitUserInfo="UsingMD">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.kilyrics-serverSide PreferredExecutionTarget="/Users/kerenelbaz/Desktop/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="vercel.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="docker.config">
     <Files>
       <File FileName="kilyrics-serverSide/Models/DAL/DBservices.cs" Line="8" Column="3" />
       <File FileName="kilyrics-serverSide/Models/User.cs" Line="68" Column="1" />
@@ -12,13 +12,28 @@
       <File FileName="kilyrics-serverSide/Program.cs" Line="1" Column="1" />
       <File FileName="kilyrics-serverSide/Controllers/UsersController.cs" Line="59" Column="68" />
       <File FileName="kilyrics-serverSide/Models/Song.cs" Line="1" Column="1" />
-      <File FileName="vercel.json" Line="17" Column="1" />
+      <File FileName="docker.config" Line="20" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="kilyrics-serverSide" expanded="True">
-            <Node name="kilyrics-serverSide" expanded="True" selected="True" />
+          <Node name="kilyrics-serverSide">
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/kerenelbaz/Projects/musicProjServerSide/musicProject/docker.config" selected="True" />
+            </Node>
+            <Node name="kilyrics-serverSide" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="DAL" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True">
+                <Node name="PublishProfiles" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

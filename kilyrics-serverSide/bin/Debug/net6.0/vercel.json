@@ -1,0 +1,13 @@
+﻿{
+  "version": 2,
+  "builds": [
+    {
+      "src": "kilyrics-serverSide/kilyrics-serverSide.csproj",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "bin/Release/net6.0/publish"
+      }
+    }
+  ],
+  "routes": [{ "src": "/(.*)", "dest": "kilyrics-serverSide/$1" }]
+}
