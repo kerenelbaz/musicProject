@@ -1,6 +1,9 @@
 ﻿<Properties StartupConfiguration="{3BFFB694-0F28-4811-8756-D2D701510BB2}|Default" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.kilyrics-serverSide PreferredExecutionTarget="/Users/kerenelbaz/Desktop/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="docker.config">
     <Files>
       <File FileName="kilyrics-serverSide/Models/DAL/DBservices.cs" Line="8" Column="3" />
@@ -39,9 +42,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
