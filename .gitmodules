@@ -1,0 +1,3 @@
+[submodule "kilyrics-clientSide"]
+path = kilyrics-clientSide
+url = https://github.com/kerenelbaz/musicProject-clientSide.git
